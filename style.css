@@ -1,0 +1,28 @@
+div .header > h1 {
+  color: red;
+  text-decoration: underline;
+  font-variant-caps: all-petite-caps;
+  font-family: "Hanken Grotesk";
+  text-shadow: 3px 3px 17px rgba(128, 0, 0, 1);
+}
+div .header > h4 {
+  font-family: "Hanken Grotesk";
+  color: yellowgreen;
+  text-transform: capitalize;
+}
+.font-Shadows {
+  font-family: "Shadows Into Light";
+  color: rgb(201, 82, 12);
+}
+.text-center {
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+.text-right {
+  text-align: right;
+}
+.text-justifyed {
+  text-align: justify;
+}
